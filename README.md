@@ -24,11 +24,11 @@ ps. the real reason i wanted to do this was to find a good painting for my room 
 
 Normal Image              |  Style to be applied 
 :-------------------------:|:-------------------------:
-![](https://github.com/Yega-Noragami/Neural-Style-Transfer/blob/main/Images/Base.jpeg =300x600)  |  ![](https://github.com/Yega-Noragami/Neural-Style-Transfer/blob/main/Images/Style.jpeg =300x600) 
+![](https://github.com/Yega-Noragami/Neural-Style-Transfer/blob/main/Images/Base.jpeg){:height="300px" width="4=600px"}  |  ![](https://github.com/Yega-Noragami/Neural-Style-Transfer/blob/main/Images/Style.jpeg){:height="300px" width="600px"}
 
 
 The Final image produced is similar to one shown below.(Note: you might get different output based on the hyparameter selection!
 
-![](https://github.com/Yega-Noragami/Neural-Style-Transfer/blob/main/Images/gen_at_iteration_30.png =300x600)
+![](https://github.com/Yega-Noragami/Neural-Style-Transfer/blob/main/Images/gen_at_iteration_30.png){:height="300px" width="600px"}
 
 
