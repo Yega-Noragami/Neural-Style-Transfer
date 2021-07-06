@@ -8,7 +8,7 @@ For a simple application of style transfer check out this Colab Tutorial for qui
 
 -> Collab implmentation with notebook 
 
--> Command Line Implementation (Coming Soon) ...
+-> Command Line Implementation
 
 -> Streamlit Implementation (Coming Soon)....
 
